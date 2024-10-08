@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.radio.arequipadigital" />
+                  <option name="mobileSdkAppId" value="1:263115557811:android:d6a2ed7a648434e9e699c6" />
+                  <option name="projectId" value="arequipadigital-bbde6" />
+                  <option name="projectNumber" value="263115557811" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
